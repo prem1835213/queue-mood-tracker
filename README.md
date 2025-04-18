@@ -3,6 +3,7 @@
 A simple internal tool for tracking and visualizing the emotional state of your support queue throughout the day.
 
 [Demo video](https://www.loom.com/share/060078bcc882420c896b161c97af359a?sid=8a3a9307-d662-4485-9652-8ad62d926c10)
+[Backend Spreadsheet](https://docs.google.com/spreadsheets/d/1c8VSI7P0qn1rFwpnVkStdJbcA5jEeEMzDlNBKqRI-W0/edit?usp=sharing)
 
 ## Features
 
